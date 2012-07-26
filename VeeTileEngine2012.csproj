@@ -53,7 +53,7 @@
     <Compile Include="Utils.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\SFMLStart\SFMLStart\SFMLStart.csproj">
+    <ProjectReference Include="..\SFMLStart\SFMLStart.csproj">
       <Project>{C8DF8299-2B2E-415B-849E-4CBBC1CB4AA6}</Project>
       <Name>SFMLStart</Name>
     </ProjectReference>
